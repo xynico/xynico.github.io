@@ -86,9 +86,6 @@ function load_publication() {
         } else {
             title.innerHTML = title_text;
         }
-        if (item.doi != null) {
-            title.innerHTML += ` (<a href="${item.pdf_link}">pdf</a>)`;
-        }
 
         // read authors (bold me)
         const authors = document.createElement("div");
@@ -100,7 +97,7 @@ function load_publication() {
         // read publication with abbreviation (bold abbreviation)
         const publication = document.createElement("div");
         publication.className = "mb-0";
-        publication.innerHTML = `${item.publication} (<b>${item.pub_abbr}</b>)`;
+        publication.innerHTML = `${item.publication} (<b>${item.pub_abbr}</b>) ${item.doi}`;
 
         // append to div
         div.appendChild(title);
@@ -187,7 +184,7 @@ function load_skill() {
 
 function load_service() {
     // conference
-    const conference_list = document.getElementById("conference-reviewer");
+    const conference_list = document.getElementById("ta");
     info.service.TA.forEach((item) => {
         const conference_li = document.createElement("li");
         conference_li.innerHTML += item;
@@ -195,20 +192,13 @@ function load_service() {
     });
 
     // journal
-    const journal_list = document.getElementById("journal-reviewer");
+    const journal_list = document.getElementById("community");
     info.service.School.forEach((item) => {
         const journal_li = document.createElement("li");
         journal_li.innerHTML += item;
         journal_list.appendChild(journal_li);
     });
 
-    // tutorial
-    const tutorial_list = document.getElementById("tutorial");
-    info.service.Community.forEach((item) => {
-        const tutorial_li = document.createElement("li");
-        tutorial_li.innerHTML += item;
-        tutorial_list.appendChild(tutorial_li);
-    });
 }
 
 function load_all() {
