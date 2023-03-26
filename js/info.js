@@ -66,19 +66,19 @@ export var info = {
                 "PyTorch",
                 "MNE/Python",
                 "Arduino",
-                "EEG"
-                "fNIRS"
+                "EEG",
+                "fNIRS",
             ],
             "used": [
                 "TensorFlow",
                 "MMLAB",
-                "SolidWorks"
-                "fMRI"
+                "SolidWorks",
+                "fMRI",
             ]
         },
         "language": [
             "Chinese (native)",
-            "English"
+            "English",
         ]
     },
     "service": {
