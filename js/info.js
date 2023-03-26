@@ -158,6 +158,8 @@ export var info = {
         "community": [
             "Speaker for WEekly Learn Open Science (WE LOST #8), Feb. 2021",
         ]
+
+
     }
 
 }
