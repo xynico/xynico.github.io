@@ -81,11 +81,11 @@ export var info = {
         ]
     },
     "service": {
-        "TeachingAssistant": [
+        "teachingassistant": [
             "Regular TA for Computational Neuroscience at Neuromatch Academy, Aug.2022",
             "GEMS Instructor for teaching middle school students, Jul. 2022",
         ],
-        "Community": [
+        "community": [
             "Speaker for WEekly Learn Open Science (WE LOST #8), Feb. 2021",
         ]
     }
