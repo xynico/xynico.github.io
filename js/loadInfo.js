@@ -185,15 +185,14 @@ function load_skill() {
 function load_service() {
     // conference
     const conference_list = document.getElementById("ta");
-    info.service.TA.forEach((item) => {
+    info.service.TeachingAssistant.forEach((item) => {
         const conference_li = document.createElement("li");
         conference_li.innerHTML += item;
         conference_list.appendChild(conference_li);
     });
-
     // journal
     const journal_list = document.getElementById("community");
-    info.service.School.forEach((item) => {
+    info.service.Community.forEach((item) => {
         const journal_li = document.createElement("li");
         journal_li.innerHTML += item;
         journal_list.appendChild(journal_li);
