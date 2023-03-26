@@ -86,11 +86,8 @@ function load_publication() {
         } else {
             title.innerHTML = title_text;
         }
-        if (item.pdf_link != null) {
+        if (item.doi != null) {
             title.innerHTML += ` (<a href="${item.pdf_link}">pdf</a>)`;
-        }
-        if (item.code_link != null) {
-            title.innerHTML += ` (<a href="${item.code_link}">code</a>)`;
         }
 
         // read authors (bold me)
@@ -191,7 +188,7 @@ function load_skill() {
 function load_service() {
     // conference
     const conference_list = document.getElementById("conference-reviewer");
-    info.service.conference.forEach((item) => {
+    info.service.TA.forEach((item) => {
         const conference_li = document.createElement("li");
         conference_li.innerHTML += item;
         conference_list.appendChild(conference_li);
@@ -199,7 +196,7 @@ function load_service() {
 
     // journal
     const journal_list = document.getElementById("journal-reviewer");
-    info.service.journal.forEach((item) => {
+    info.service.School.forEach((item) => {
         const journal_li = document.createElement("li");
         journal_li.innerHTML += item;
         journal_list.appendChild(journal_li);
@@ -207,7 +204,7 @@ function load_service() {
 
     // tutorial
     const tutorial_list = document.getElementById("tutorial");
-    info.service.tutorial.forEach((item) => {
+    info.service.Community.forEach((item) => {
         const tutorial_li = document.createElement("li");
         tutorial_li.innerHTML += item;
         tutorial_list.appendChild(tutorial_li);

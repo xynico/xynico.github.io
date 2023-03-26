@@ -12,8 +12,7 @@ export var info = {
         {
             "school": "University of Pennsylvania (UPenn)",
             "region": "Philadelphia, PA",
-            "degree": "DEGREES:
-            Master of Sci in Engineering",
+            "degree": "Master of Sci in Engineering",
             "major": "Bioengineering",
             "start_date": "September 2021",
             "end_date": "Present",
@@ -42,7 +41,7 @@ export var info = {
     ],
     "award": [
         {
-            "title": "2021 Excellent Bachelor's Thesis in Henan Province"
+            "title": "2021 Excellent Bachelor's Thesis in Henan Province",
             "organization": "Henan Province, China",
             "event": "",
             "description": "",
