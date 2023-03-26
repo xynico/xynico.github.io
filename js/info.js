@@ -115,14 +115,6 @@ export var info = {
             "description": "Outstanding Research Achievements of Undergraduate Students.",
             "year": 2021,
         },
-        {
-            "title": "XiaoHe Prize",
-            "organization": "Henan University, China",
-            "event": "",
-            "description": "Outstanding Research Achievements of Undergraduate Students.",
-            "year": 2021,
-        },
-        
 
     ],
     "skill": {
