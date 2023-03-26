@@ -7,6 +7,7 @@ export var info = {
     "linkedin": "https://www.linkedin.com/in/xiaoweijiang/",
     "github": "https://github.com/xynico",
     "google_scholar": "https://scholar.google.com/citations?user=Sr9TeLEAAAAJ&hl=en&authuser=1&oi=ao",
+    "twitter": "https://twitter.com/XiaoweiJiang98",
     "about_me": "I am a Master student at the department of Bioengineering in University of Pennsylvania (UPenn), supervised by Prof. Platt Michael and Prof. Konrad Kording. I obtained my Bachelor degree at Henan University (HENU), majored in Applied Psychology, supervised by Prof. Yanan Chen. My research interest lies in Cognitive Neuroscience and Brain-Computer Interface (BCI).",
     "education": [
         {

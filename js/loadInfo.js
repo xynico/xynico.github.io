@@ -14,6 +14,8 @@ function load_info() {
     document.getElementById("linkedin").href = info.linkedin;
     document.getElementById("github").href = info.github;
     document.getElementById("google-scholar").href = info.google_scholar;
+    document.getElementById("twitter").href = info.twitter;
+
 }
 
 function load_education() {
