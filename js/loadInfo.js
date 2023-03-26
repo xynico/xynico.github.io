@@ -97,7 +97,7 @@ function load_publication() {
         // read publication with abbreviation (bold abbreviation)
         const publication = document.createElement("div");
         publication.className = "mb-0";
-        publication.innerHTML = `${item.publication} (<b>${item.pub_abbr}</b>) ${item.doi}`;
+        publication.innerHTML = `${item.publication} (<b>${item.pub_abbr}</b>) <br> ${item.doi}`;
 
         // append to div
         div.appendChild(title);
@@ -185,7 +185,7 @@ function load_skill() {
 function load_service() {
     // conference
     const conference_list = document.getElementById("ta");
-    info.service.teachingassistant.forEach((item) => {
+    info.service.ta.forEach((item) => {
         const conference_li = document.createElement("li");
         conference_li.innerHTML += item;
         conference_list.appendChild(conference_li);

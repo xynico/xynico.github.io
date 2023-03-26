@@ -81,7 +81,7 @@ export var info = {
         ]
     },
     "service": {
-        "teachingassistant": [
+        "ta": [
             "Regular TA for Computational Neuroscience at Neuromatch Academy, Aug.2022",
             "GEMS Instructor for teaching middle school students, Jul. 2022",
         ],
