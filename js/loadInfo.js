@@ -97,7 +97,7 @@ function load_publication() {
         // read publication with abbreviation (bold abbreviation)
         const publication = document.createElement("div");
         publication.className = "mb-0";
-        publication.innerHTML = `${item.publication} (<b>${item.pub_abbr}</b>) <br> ${item.doi}`;
+        publication.innerHTML = `${item.publication} (<b>${item.pub_abbr}</b>), ${item.year} <br /> ${item.doi}`;
 
         // append to div
         div.appendChild(title);
