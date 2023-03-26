@@ -38,6 +38,60 @@ export var info = {
             "pub_link": "https://www.mdpi.com/1660-4601/19/21/14411",
             "doi": "doi:10.3390/ijerph192114411",
         },  
+        {
+            "title": "How to Improve the Well-Being of Youths: An Exploratory Study of the Relationships Among Coping Style, Emotion Regulation, and Subjective Well-Being Using the Random Forest Classification and Structural Equation Modeling",
+            "authors": "Jiang Xiaowei, Chen Yanan, Zhou Chenghao, Ge Chunlei, & Zhang Xiaolin",
+            "publication": "Frontiers in Psychology",
+            "year": 2021,
+            "pub_abbr": "Front. Psychol.",
+            "pub_link": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.637712/full",
+            "doi": "doi:10.3389/fpsyg.2021.637712",
+        },
+        {
+            "title": "Scarcity Mindset Neuro Network Decoding with Reward: A Tree-Based Model and Functional Near-Infrared Spectroscopy Study",
+            "authors": "Jiang Xiaowei, Zhou Chenghao, Ao Na, Gu Wenke, Li Jingyi, & Chen Yanan",
+            "publication": "Frontiers in Human Neuroscience",
+            "year": 2021,
+            "pub_abbr": "Front. Hum. Neurosci.",
+            "pub_link": "https://www.frontiersin.org/articles/10.3389/fnhum.2021.736415/full",
+            "doi": "doi:10.3389/fnhum.2021.736415",
+        },
+        {
+            "title": "Multiverse-Analysis Reliability Index (MARI): Evaluate the Reliability of fNIRS Results",
+            "authors": "Zhou Chenghao, Jiang Xiaowei, Chen Yanan, & Hu Chuanpeng",
+            "publication": "The fNIRS 2022 Conference",
+            "year": 2022,
+            "pub_abbr": "fNIRS 2022",
+            "pub_link": "fnirs.org/2022/01/01/sfnirs2022_103",
+            "doi": "",
+        },
+        {
+            "title": "Brain Decoding Using fNIRS",
+            "authors": "Cao Lu, Huang Dandan, Zhang Yue, Jiang Xiaowei, & Chen Yanan",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence",
+            "year": 2021,
+            "pub_abbr": "AAAI 2021",
+            "pub_link": "https://ojs.aaai.org/index.php/AAAI/article/view/17493",
+            "doi": "doi:10.1609/aaai.v35i14.17493",
+        },
+        {
+            "title": "Effect of Executive Function on Event-Based Prospective Memory for Different Forms of Learning Disabilities",
+            "authors": "Ji Lili, Zhao Qi, Gu Huang, Chen Yanan, Zhao Junfeng, Jiang Xiaowei, & Wu Lina",
+            "publication": "Frontiers in Psychology",
+            "year": 2021,
+            "pub_abbr": "Front. Psychol.",
+            "pub_link": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.528883/full",
+            "doi": "doi:10.3389/fpsyg.2021.528883",
+        },
+        {
+            "title": "The Taboo Love: Male-Male Erotica as a Potential Sexual Attraction for girls Regulate the Brain Response",
+            "authors": "Jiang Xiaowei, Ao Na, Chen Yanan, Niu Hui, Zhou Chenghao, & Du Feng",
+            "publication": "PsyArXiv",
+            "year": 2021,
+            "pub_abbr": "PsyArXiv",
+            "pub_link": "https://psyarxiv.com/twdjn/",
+            "doi": "doi:10.31234/osf.io/twdjn",
+        },
     ],
     "award": [
         {
@@ -45,8 +99,31 @@ export var info = {
             "organization": "Henan Province, China",
             "event": "",
             "description": "",
-            "year": 2021
+            "year": 2021,
         },
+        {
+            "title": "the Third Prize of Outstanding Achievement Award",
+            "organization": "Henan Provincial Department of Education",
+            "event": "Innovation and Entrepreneurship Training Program for College Students in Henan Province",
+            "description": "",
+            "year": 2022,
+        },
+        {
+            "title": "XiaoHe Prize",
+            "organization": "Henan University, China",
+            "event": "",
+            "description": "Outstanding Research Achievements of Undergraduate Students.",
+            "year": 2021,
+        },
+        {
+            "title": "XiaoHe Prize",
+            "organization": "Henan University, China",
+            "event": "",
+            "description": "Outstanding Research Achievements of Undergraduate Students.",
+            "year": 2021,
+        },
+        
+
     ],
     "skill": {
         "programming_language": {
