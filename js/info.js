@@ -16,7 +16,7 @@ export var info = {
             "degree": "Master of Sci in Engineering",
             "major": "Bioengineering",
             "start_date": "September 2021",
-            "end_date": "Present",
+            "end_date": "May 2023",
             "description": "GPA: 3.96/4.0"
         },
         {
@@ -103,7 +103,7 @@ export var info = {
             "year": 2021,
         },
         {
-            "title": "the Third Prize of Outstanding Achievement Award",
+            "title": "The Third Prize of Outstanding Achievement Award",
             "organization": "Henan Provincial Department of Education",
             "event": "Innovation and Entrepreneurship Training Program for College Students in Henan Province",
             "description": "",
