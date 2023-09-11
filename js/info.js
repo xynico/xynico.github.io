@@ -1,9 +1,9 @@
 export var info = {
     "first_name": "Xiaowei",
     "last_name": "Jiang",
-    "email": "xiaoweij@seas.upenn.edu",
-    "address": "Philadelphia, PA 19104",
-    "phone": null,
+    "email": "xiaowei.jiang-1@student.uts.edu.au"
+    "address": "15 Broadway Ultimo, NSW Australia"
+    "phone": (+64) 0 420 256 714
     "linkedin": "https://www.linkedin.com/in/xiaoweijiang/",
     "github": "https://github.com/xynico",
     "google_scholar": "https://scholar.google.com/citations?user=Sr9TeLEAAAAJ&hl=en&authuser=1&oi=ao",
