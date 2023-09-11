@@ -8,11 +8,20 @@ export var info = {
     "github": "https://github.com/xynico",
     "google_scholar": "https://scholar.google.com/citations?user=Sr9TeLEAAAAJ&hl=en&authuser=1&oi=ao",
     "twitter": "https://twitter.com/XiaoweiJiang98",
-    "about_me": "I am a Master student at the department of Bioengineering in University of Pennsylvania (UPenn), supervised by Prof. Platt Michael and Prof. Konrad Kording. I obtained my Bachelor degree at Henan University (HENU), majored in Applied Psychology, supervised by Prof. Yanan Chen. My research interest lies in Cognitive Neuroscience and Brain-Computer Interface (BCI).",
+    "about_me": "I am a PhD Student at the Department of Engineering at the University of Technology Sydney (UTS), supervised by Prof. Chin-Teng Lin. I obtained my Bioengineering Master's degree at the University of Pennsylvania (UPenn) and my Psychology Bachelor degree at Henan University (HENU). My research interest lies in Brain-Computer Interface (BCI) and Engineering Psychology.",
     "education": [
         {
+            "school": "University of Technology Sydney",
+            "region": "Sydney, NSW, AU",
+            "degree": "Doctor of Philosophy",
+            "major": "Information Systems, Software Engineering, Analytics",
+            "start_date": "September 2023",
+            "end_date": "September 2027",
+            "description": "Brain-Computer Interface and AI Truth"
+        },
+        {
             "school": "University of Pennsylvania (UPenn)",
-            "region": "Philadelphia, PA",
+            "region": "Philadelphia, PA, USA",
             "degree": "Master of Sci in Engineering",
             "major": "Bioengineering",
             "start_date": "September 2021",
@@ -21,7 +30,7 @@ export var info = {
         },
         {
             "school": "Henan University (HENU)",
-            "region": "Kaifeng, China",
+            "region": "Kaifeng, Henan, China",
             "degree": "Bachelor of Science",
             "major": "Applied Psychology",
             "start_date": "September 2017",
@@ -30,15 +39,6 @@ export var info = {
         },
     ],
     "publication": [
-        {
-            "title": "A Depression-Risk Mental Pattern Identified by Hidden Markov Model in Undergraduates",
-            "authors": "Jiang Xiaowei, Chen Yanan, Ao Na, Xiao Yyang, & Du Feng",
-            "publication": "International Journal of Environmental Research and Public Health",
-            "year": 2022,
-            "pub_abbr": "IJERPH",
-            "pub_link": "https://www.mdpi.com/1660-4601/19/21/14411",
-            "doi": "doi:10.3390/ijerph192114411",
-        },  
         {
             "title": "How to Improve the Well-Being of Youths: An Exploratory Study of the Relationships Among Coping Style, Emotion Regulation, and Subjective Well-Being Using the Random Forest Classification and Structural Equation Modeling",
             "authors": "Jiang Xiaowei, Chen Yanan, Zhou Chenghao, Ge Chunlei, & Zhang Xiaolin",
@@ -83,15 +83,6 @@ export var info = {
             "pub_abbr": "Front. Psychol.",
             "pub_link": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.528883/full",
             "doi": "doi:10.3389/fpsyg.2021.528883",
-        },
-        {
-            "title": "The Taboo Love: Male-Male Erotica as a Potential Sexual Attraction for girls Regulate the Brain Response",
-            "authors": "Jiang Xiaowei, Ao Na, Chen Yanan, Niu Hui, Zhou Chenghao, & Du Feng",
-            "publication": "PsyArXiv",
-            "year": 2021,
-            "pub_abbr": "PsyArXiv",
-            "pub_link": "https://psyarxiv.com/twdjn/",
-            "doi": "doi:10.31234/osf.io/twdjn",
         },
     ],
     "award": [
