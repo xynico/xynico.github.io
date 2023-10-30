@@ -11,7 +11,7 @@ export var info = {
     "about_me": "I am a PhD Student at the Department of Engineering at the University of Technology Sydney (UTS), supervised by Prof. Chin-Teng Lin. I obtained my Bioengineering Master's degree at the University of Pennsylvania (UPenn) and my Psychology Bachelor degree at Henan University (HENU). My research interest lies in Brain-Computer Interface (BCI) and Engineering Psychology.",
     "education": [
         {
-            "school": "University of Technology Sydney",
+            "school": "University of Technology Sydney (UTS)",
             "region": "Sydney, NSW, AU",
             "degree": "Doctor of Philosophy",
             "major": "Information Systems, Software Engineering, Analytics",
