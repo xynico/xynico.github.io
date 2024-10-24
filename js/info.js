@@ -40,6 +40,15 @@ export var info = {
     ],
     "publication": [
         {
+            "title": "Brain-to-brain synchrony increased during interpersonal touch in romantic lovers: an EEG-based hyperscanning study",
+            "authors": "Chenghao Zhou, Xiaowei Jiang, Yanan Chen, Chunlei Ge, Na Ao, Feng Du",
+            "publication": "BMC psychology",
+            "year": 2024,
+            "pub_abbr": "BMC Psychol.",
+            "pub_link": "https://link.springer.com/content/pdf/10.1186/s40359-024-02051-7.pdf",
+            "doi": "doi.org/10.1186/s40359-024-02051-7",
+        },
+        {
             "title": "How to Improve the Well-Being of Youths: An Exploratory Study of the Relationships Among Coping Style, Emotion Regulation, and Subjective Well-Being Using the Random Forest Classification and Structural Equation Modeling",
             "authors": "Jiang Xiaowei, Chen Yanan, Zhou Chenghao, Ge Chunlei, & Zhang Xiaolin",
             "publication": "Frontiers in Psychology",
