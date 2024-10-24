@@ -17,7 +17,7 @@ export var info = {
             "major": "Information Systems, Software Engineering, Analytics",
             "start_date": "September 2023",
             "end_date": "September 2027",
-            "description": "Brain-Computer Interface and AI Truth"
+            "description": "Brain-Computer Interface and Fuzzy"
         },
         {
             "school": "University of Pennsylvania (UPenn)",
