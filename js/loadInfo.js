@@ -186,22 +186,22 @@ function load_skill() {
 
 function load_service() {
     // ta
-    const conference_list = document.getElementById("ta");
+    const ta_list = document.getElementById("ta");
     info.service.ta.forEach((item) => {
-        const conference_li = document.createElement("li");
-        conference_li.innerHTML += item;
-        conference_list.appendChild(conference_li);
+        const ta_li = document.createElement("li");
+        ta_li.innerHTML += item;
+        ta_list.appendChild(ta_li);
     });
     // community
-    const journal_list = document.getElementById("community");
+    const community_list = document.getElementById("community");
     info.service.community.forEach((item) => {
-        const journal_li = document.createElement("li");
-        journal_li.innerHTML += item;
-        journal_list.appendChild(journal_li);
+        const community_li = document.createElement("li");
+        community_li.innerHTML += item;
+        community_list.appendChild(journal_li);
     });
     // reviewer
     const reviewer_list = document.getElementById("reviewer");
-    info.service.community.forEach((item) => {
+    info.service.reviewer.forEach((item) => {
         const reviewer_li = document.createElement("li");
         reviewer_li.innerHTML += item;
         reviewer_list.appendChild(reviewer_li);
