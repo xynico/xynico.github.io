@@ -203,16 +203,9 @@ function load_service() {
 }
 
 function load_reviewer() {
-    // Load reviewer information
-    var reviewer = info.Reviewer;
-    var reviewer_list = document.getElementById("reviewer-list");
-    for (var i = 0; i < reviewer.length; i++) {
-        var item = document.createElement("li");
-        item.innerHTML = reviewer[i].title;
-        reviewer_list.appendChild(item);
-    }
+    // Reviewer
+    const reviewer_list = document.getElementById("reviewer");
 }
-
 
 function load_all() {
     load_info();
