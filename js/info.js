@@ -94,11 +94,7 @@ export var info = {
             "doi": "doi:10.3389/fpsyg.2021.528883",
         },
     ],
-    "Reviewer": [
-        { 
-            "title": "IEEE Transactions on Cybernetics",
-        }
-        ]
+    
     "award": [
         {
             "title": "Excellent Bachelor's Thesis in Henan Province",
@@ -162,9 +158,10 @@ export var info = {
         ],
         "community": [
             "Speaker for WEekly Learn Open Science (WE LOST #8), Feb. 2021",
+        ],
+        "reviewer": [
+            "IEEE Transactions on Cybernetics",
         ]
-
-
     }
 
 }
