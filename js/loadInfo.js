@@ -211,7 +211,7 @@ function load_all() {
     load_info();
     load_education();
     load_publication();
-    load_reviewer()
+    load_reviewer();
     load_award();
     load_skill();
     load_service();
