@@ -94,6 +94,11 @@ export var info = {
             "doi": "doi:10.3389/fpsyg.2021.528883",
         },
     ],
+    "Reviewer": [
+        { 
+            "title": "IEEE Transactions on Cybernetics",
+        }
+        ]
     "award": [
         {
             "title": "Excellent Bachelor's Thesis in Henan Province",
