@@ -202,16 +202,11 @@ function load_service() {
 
 }
 
-function load_reviewer() {
-    // Reviewer
-    const reviewer_list = document.getElementById("reviewer");
-}
 
 function load_all() {
     load_info();
     load_education();
     load_publication();
-    load_reviewer();
     load_award();
     load_skill();
     load_service();
