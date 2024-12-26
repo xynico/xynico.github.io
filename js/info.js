@@ -72,7 +72,7 @@ export var info = {
             "publication": "The fNIRS 2022 Conference",
             "year": 2022,
             "pub_abbr": "fNIRS 2022",
-            "pub_link": "fnirs.org/2022/01/01/sfnirs2022_103",
+            "pub_link": "https://www.fnirs.org/2022/01/01/sfnirs2022_103",
             "doi": "",
         },
         {
