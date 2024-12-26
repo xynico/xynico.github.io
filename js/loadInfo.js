@@ -202,10 +202,21 @@ function load_service() {
 
 }
 
+function load_reviewer() {
+    // conference
+    const conference_list = document.getElementById("reviewer");
+    info.Reviewer.forEach((item) => {
+        const conference_li = document.createElement("li");
+        conference_li.innerHTML += item;
+        conference_list.appendChild(conference_li);
+    });
+}
+
 function load_all() {
     load_info();
     load_education();
     load_publication();
+    load_reviewer()
     load_award();
     load_skill();
     load_service();
