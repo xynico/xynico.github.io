@@ -203,14 +203,16 @@ function load_service() {
 }
 
 function load_reviewer() {
-    // conference
-    const conference_list = document.getElementById("reviewer");
-    info.Reviewer.forEach((item) => {
-        const conference_li = document.createElement("li");
-        conference_li.innerHTML += item;
-        conference_list.appendChild(conference_li);
-    });
+    // Load reviewer information
+    var reviewer = info.Reviewer;
+    var reviewer_list = document.getElementById("reviewer-list");
+    for (var i = 0; i < reviewer.length; i++) {
+        var item = document.createElement("li");
+        item.innerHTML = reviewer[i].title;
+        reviewer_list.appendChild(item);
+    }
 }
+
 
 function load_all() {
     load_info();
