@@ -197,7 +197,7 @@ function load_service() {
     info.service.community.forEach((item) => {
         const community_li = document.createElement("li");
         community_li.innerHTML += item;
-        community_list.appendChild(journal_li);
+        community_list.appendChild(community_li);
     });
     // reviewer
     const reviewer_list = document.getElementById("reviewer");
