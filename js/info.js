@@ -50,7 +50,7 @@ export var info = {
         },
         {
             "title": "How to Improve the Well-Being of Youths: An Exploratory Study of the Relationships Among Coping Style, Emotion Regulation, and Subjective Well-Being Using the Random Forest Classification and Structural Equation Modeling",
-            "authors": "Jiang Xiaowei, Chen Yanan, Zhou Chenghao, Ge Chunlei, & Zhang Xiaolin",
+            "authors": "Xiaowei Jiang, Yanan Chen, Chenghao Zhou, Chunlei Ge, & Xiaolin Zhang",
             "publication": "Frontiers in Psychology",
             "year": 2021,
             "pub_abbr": "Front. Psychol.",
@@ -59,7 +59,7 @@ export var info = {
         },
         {
             "title": "Scarcity Mindset Neuro Network Decoding with Reward: A Tree-Based Model and Functional Near-Infrared Spectroscopy Study",
-            "authors": "Jiang Xiaowei, Zhou Chenghao, Ao Na, Gu Wenke, Li Jingyi, & Chen Yanan",
+            "authors": "Xiaowei Jiang, Chenghao Zhou, Na Ao, Wenke Gu, Jingyi Li, & Yanan Chen",
             "publication": "Frontiers in Human Neuroscience",
             "year": 2021,
             "pub_abbr": "Front. Hum. Neurosci.",
@@ -68,7 +68,7 @@ export var info = {
         },
         {
             "title": "Multiverse-Analysis Reliability Index (MARI): Evaluate the Reliability of fNIRS Results",
-            "authors": "Zhou Chenghao, Jiang Xiaowei, Chen Yanan, & Hu Chuanpeng",
+            "authors": "Chenghao Zhou, Xiaowei Jiang, Yanan Chen, & Chuanpeng Hu",
             "publication": "The fNIRS 2022 Conference",
             "year": 2022,
             "pub_abbr": "fNIRS 2022",
@@ -77,7 +77,7 @@ export var info = {
         },
         {
             "title": "Brain Decoding Using fNIRS",
-            "authors": "Cao Lu, Huang Dandan, Zhang Yue, Jiang Xiaowei, & Chen Yanan",
+            "authors": "Lu Cao, Dandan Huang, Yue Zhang, Xiaowei Jiang, & Yanan Chen",
             "publication": "Proceedings of the AAAI Conference on Artificial Intelligence",
             "year": 2021,
             "pub_abbr": "AAAI 2021",
@@ -86,7 +86,7 @@ export var info = {
         },
         {
             "title": "Effect of Executive Function on Event-Based Prospective Memory for Different Forms of Learning Disabilities",
-            "authors": "Ji Lili, Zhao Qi, Gu Huang, Chen Yanan, Zhao Junfeng, Jiang Xiaowei, & Wu Lina",
+            "authors": "Lili Ji, Qi Zhao, Huang Gu, Yanan Chen, Junfeng Zhao, Xiaowei Jiang, & Lina Wu",
             "publication": "Frontiers in Psychology",
             "year": 2021,
             "pub_abbr": "Front. Psychol.",
