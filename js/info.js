@@ -44,6 +44,7 @@ export var info = {
             "authors": "Xiaowei Jiang, Wenhao Ma, Yiqun Duan, Thomas Do, Chin-Teng Lin",
             "publication": "2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
             "pub_abbr": "IEEE SMC 2024",
+            "year": 2024,
             "pub_link": "https://ieeexplore.ieee.org/document/10831598",
             "doi": "doi.org/10.1109/SMC54092.2024.10831598",
         },
