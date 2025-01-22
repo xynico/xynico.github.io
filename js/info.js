@@ -47,6 +47,7 @@ export var info = {
             "year": 2024,
             "pub_link": "https://ieeexplore.ieee.org/document/10831598",
             "doi": "doi.org/10.1109/SMC54092.2024.10831598",
+            "download_link": "https://arxiv.org/abs/2501.11895",
         },
         
         {
