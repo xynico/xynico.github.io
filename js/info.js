@@ -40,6 +40,16 @@ export var info = {
     ],
     "publication": [
         {
+            "title": "A Fuzzy Logic-Based Approach to Predict Human Interaction by Functional Near-Infrared Spectroscopy",
+            "authors": "Xiaowei Jiang, Liang Ou, Yanan Chen, Na Ao, Yu-Cheng Chang, Thomas Do, Chin-Teng Lin",
+            "publication": "IEEE Transactions on Fuzzy Systems",
+            "year": 2025,
+            "pub_abbr": "IEEE TFS",
+            "pub_link": "https://ieeexplore.ieee.org/document/10849810",
+            "doi": "10.1109/TFUZZ.2025.3528376",
+        },
+        
+        {
             "title": "Boy’s love fans versus non-fans in the sexual identity and neural response in the digital age’s young females",
             "authors": "Na Ao, Xiaowei Jiang, Yanan Chen, Feng Du, Yingying Chen, Huihui Niu, Shuoyan Hu & Minghui Wang",
             "publication": "BMC psychology",
