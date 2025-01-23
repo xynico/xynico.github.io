@@ -40,11 +40,20 @@ export var info = {
     ],
     "publication": [
         {
+            "title": "Boy’s love fans versus non-fans in the sexual identity and neural response in the digital age’s young females",
+            "authors": "Na Ao, Xiaowei Jiang, Yanan Chen, Feng Du, Yingying Chen, Huihui Niu, Shuoyan Hu & Minghui Wang",
+            "publication": "BMC psychology",
+            "year": 2025,
+            "pub_abbr": "BMC Psychol.",
+            "pub_link": "https://link.springer.com/article/10.1186/s40359-024-02297-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250123&utm_content=10.1186%2Fs40359-024-02297-1",
+            "doi": "doi.org/10.1186/s40359-024-02297-1",
+        },
+        {
             "title": "Contrastive Masked Autoencoders for Character-Level Open-Set Writer Identification",
             "authors": "Xiaowei Jiang, Wenhao Ma, Yiqun Duan, Thomas Do, Chin-Teng Lin",
             "publication": "2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
             "pub_abbr": "IEEE SMC 2024",
-            "year": 2024,
+            "year": 2025,
             "pub_link": "https://ieeexplore.ieee.org/document/10831598",
             "doi": "doi.org/10.1109/SMC54092.2024.10831598",
             "download_link": "https://arxiv.org/abs/2501.11895",
