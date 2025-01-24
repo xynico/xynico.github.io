@@ -6,6 +6,7 @@ export var info = {
     "phone": "(+64) 0 420 256 714",
     "linkedin": "https://www.linkedin.com/in/xiaoweijiang/",
     "github": "https://github.com/xynico",
+    "orcid": "https://orcid.org/0000-0003-3052-5193",
     "google_scholar": "https://scholar.google.com/citations?user=Sr9TeLEAAAAJ&hl=en&authuser=1&oi=ao",
     "twitter": "https://twitter.com/XiaoweiJiang98",
     "about_me": "I am a PhD Student at the Department of Engineering at the University of Technology Sydney (UTS), supervised by Prof. Chin-Teng Lin. I obtained my Bioengineering Master's degree at the University of Pennsylvania (UPenn) and my Psychology Bachelor degree at Henan University (HENU). My research interest lies in Brain-Computer Interface (BCI) and Engineering Psychology.",
