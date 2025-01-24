@@ -15,7 +15,7 @@ function load_info() {
     document.getElementById("github").href = info.github;
     document.getElementById("google-scholar").href = info.google_scholar;
     document.getElementById("twitter").href = info.twitter;
-
+    document.getElementById("orcid").href = info.orcid;
 }
 
 function load_education() {
