@@ -193,6 +193,7 @@ export var info = {
         "reviewer": [
             "IEEE Transactions on Cybernetics",
             "IEEE Transactions on Fuzzy Systems",
+            "Scientific Data"
         ]
     }
 
