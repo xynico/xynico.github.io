@@ -40,6 +40,17 @@ export var info = {
         },
     ],
     "publication": [
+
+        {
+            "title": "iFuzzyTL: Interpretable Fuzzy Transfer Learning for Steady-State Visual Evoked Potentials Brain-Computer Interfaces System",
+            "authors": "Xiaowei Jiang, Beining Cao, Chin-Teng Lin",
+            "publication": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+            "year": 2025,
+            "pub_abbr": "IEEE TSMC",
+            "pub_link": "https://doi.org/10.1109/TSMC.2025.3614244",
+            "doi": "10.1109/TSMC.2025.3614244"
+        },
+        
         {
             "title": "A Fuzzy Logic-Based Approach to Predict Human Interaction by Functional Near-Infrared Spectroscopy",
             "authors": "Xiaowei Jiang, Liang Ou, Yanan Chen, Na Ao, Yu-Cheng Chang, Thomas Do, Chin-Teng Lin",
