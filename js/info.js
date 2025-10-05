@@ -43,7 +43,7 @@ export var info = {
 
         {
             "title": "iFuzzyTL: Interpretable Fuzzy Transfer Learning for Steady-State Visual Evoked Potentials Brain-Computer Interfaces System",
-            "authors": "Xiaowei Jiang, Beining Cao, Chin-Teng Lin",
+            "authors": "Xiaowei Jiang, Beining Cao, Liang Ou, Yu-Cheng Chang, Thomas Do, Chin-Teng Lin",
             "publication": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
             "year": 2025,
             "pub_abbr": "IEEE TSMC",
