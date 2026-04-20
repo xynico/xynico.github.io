@@ -42,6 +42,16 @@ export var info = {
     "publication": [
 
         {
+            "title": "iFuzz-Meta: An Interpretable Fuzzy Learning Framework Bridging Top-Down and Bottom-Up Knowledge Integration",
+            "authors": "Xiaowei Jiang, Daniel Leong，Beining Cao, Zhou Nan, Ren Yingtao，Yu-Cheng Chang, Thomas Do, Chin-Teng Lin",
+            "publication": "IEEE Transactions on Fuzzy Systems",
+            "year": 2026,
+            "pub_abbr": "IEEE TFS",
+            "pub_link": "https://doi.org/10.1109/TFUZZ.2026.3683688",
+            "doi": "10.1109/TFUZZ.2026.3683688"
+        },
+
+        {
             "title": "iFuzzyTL: Interpretable Fuzzy Transfer Learning for Steady-State Visual Evoked Potentials Brain-Computer Interfaces System",
             "authors": "Xiaowei Jiang, Beining Cao, Liang Ou, Yu-Cheng Chang, Thomas Do, Chin-Teng Lin",
             "publication": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
