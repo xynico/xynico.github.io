@@ -50,7 +50,16 @@ export var info = {
             "pub_link": "https://doi.org/10.1109/TFUZZ.2026.3683688",
             "doi": "10.1109/TFUZZ.2026.3683688"
         },
-
+        {
+            "title": "Neural Spelling: A Spell-Based BCI System for Language Neural Decoding",
+            "authors": "Xiaowei Jiang, Jinzhao Zhou, Yiqun Duan, Ziyi Zhao, Yu-Cheng Chang, Thomas Do, Chin-Teng Lin",
+            "publication": "IEEE Transactions on Biomedical Engineering",
+            "year": 2026,
+            "pub_abbr": "IEEE TBME",
+            "pub_link": "https://doi.org/10.1109/TBME.2026.3691322",
+            "doi": "10.1109/TBME.2026.3691322",
+            "download_link": "https://arxiv.org/abs/2501.17489",
+        },
         {
             "title": "iFuzzyTL: Interpretable Fuzzy Transfer Learning for Steady-State Visual Evoked Potentials Brain-Computer Interfaces System",
             "authors": "Xiaowei Jiang, Beining Cao, Liang Ou, Yu-Cheng Chang, Thomas Do, Chin-Teng Lin",
@@ -127,6 +136,84 @@ export var info = {
             "pub_link": "https://www.fnirs.org/2022/01/01/sfnirs2022_103",
             "doi": "",
         },
+        {
+            "title": "Pretraining Large Brain Language Model for Active BCI: Silent Speech",
+            "authors": "Jinzhao Zhou, Zehong Cao, Yiqun Duan, Connor Barkley, Daniel Leong, Xiaowei Jiang, Quoc-Toan Nguyen, Ziyi Zhao, Thomas Do, Yu-Cheng Chang, Sheng-Fu Liang, Chin-Teng Lin",
+            "publication": "Proceedings of the 33rd ACM International Conference on Multimedia",
+            "year": 2025,
+            "pub_abbr": "ACM MM 2025",
+            "pub_link": "https://doi.org/10.1145/3746027.3754810",
+            "doi": "10.1145/3746027.3754810",
+            "download_link": "https://arxiv.org/abs/2504.21214",
+        },
+        {
+            "title": "Bidirectional Benefits: Interbrain Synchronization and Role-Specific Neural Signatures in Interpersonal Emotion Regulation",
+            "authors": "Yunkai Yang, Jinxin He, Luxin Wang, Jianshu Wang, Jingwen Xu, Xiaowei Jiang, Na Ao, Pengyi Zhang, Yanan Chen, Minghui Wang, Feng Du",
+            "publication": "Emotion",
+            "year": 2026,
+            "pub_abbr": "Emotion",
+            "pub_link": "https://doi.org/10.1037/emo0001683",
+            "doi": "10.1037/emo0001683",
+        },
+        {
+            "title": "From Overt Deterrence to Covert Internalization: Moral Effects of AI Regulation and the Moderating Role of Personality Traits",
+            "authors": "Jianshu Wang, Xiaowei Jiang, Yanan Chen, Minghui Wang, Feng Du",
+            "publication": "Acta Psychologica Sinica",
+            "year": 2026,
+            "pub_abbr": "Acta Psychol. Sin.",
+            "pub_link": "https://doi.org/10.3724/SP.J.1041.2026.0381",
+            "doi": "10.3724/SP.J.1041.2026.0381",
+        },
+        {
+            "title": "Acoustic Inspired Brain-to-Sentence Decoder for Logosyllabic Language",
+            "authors": "Chen Feng, Lu Cao, Di Wu, En Zhang, Ting Wang, Xiaowei Jiang, Jinbo Chen, Hui Wu, Siyu Lin, Qiming Hou, Junming Zhu, Jie Yang, Mohamad Sawan, Yue Zhang",
+            "publication": "Cyborg and Bionic Systems",
+            "year": 2025,
+            "pub_abbr": "Cyborg Bionic Syst.",
+            "pub_link": "https://doi.org/10.34133/cbsystems.0257",
+            "doi": "10.34133/cbsystems.0257",
+            "download_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12038182/"
+        },
+
+        {
+            "title": "An fNIRS Hyperscanning Dataset on the Modulation of Synchrony by Social Relationship During Social Touch",
+            "authors": "Yanan Chen, Huihui Niu, Na Ao, Jingwen Xu, Qiyue Ming, Xiyue Teng, Bo Yang, Ziyi Lian, Xiaowei Jiang, Yunkai Yang",
+            "publication": "Scientific Data",
+            "year": 2025,
+            "pub_abbr": "Sci. Data",
+            "pub_link": "https://doi.org/10.1038/s41597-025-06233-9",
+            "doi": "10.1038/s41597-025-06233-9",
+        },
+
+        {
+            "title": "Enhancing TSK Fuzzy Systems with an Automated Filter-Gate Mechanism for Rule-Specific Feature Selection",
+            "authors": "Yingtao Ren, Yu-Cheng Chang, Xiaowei Jiang, Jie Yang, Chin-Teng Lin",
+            "publication": "2025 IEEE International Conference on Fuzzy Systems",
+            "year": 2025,
+            "pub_abbr": "IEEE FUZZ 2025",
+            "pub_link": "https://doi.org/10.1109/FUZZ62266.2025.11152216",
+            "doi": "10.1109/FUZZ62266.2025.11152216",
+        },
+
+        {
+            "title": "Enhancing Marine Navigation Performance Using the Head-Up Interface",
+            "authors": "Avinash Singh, Jinzhao Zhou, Chin-Teng Lin, Sara Lal, Ami Eidels, Xiaowei Jiang, Scott Brown",
+            "publication": "2024 IEEE International Conference on Systems, Man, and Cybernetics",
+            "year": 2024,
+            "pub_abbr": "IEEE SMC 2024",
+            "pub_link": "https://doi.org/10.1109/SMC54092.2024.10831001",
+            "doi": "10.1109/SMC54092.2024.10831001",
+        },
+        {
+            "title": "A Depression-Risk Mental Pattern Identified by Hidden Markov Model in Undergraduates",
+            "authors": "Xiaowei Jiang, Yanan Chen, Na Ao, Yang Xiao, Feng Du",
+            "publication": "International Journal of Environmental Research and Public Health",
+            "year": 2022,
+            "pub_abbr": "Int. J. Environ. Res. Public Health",
+            "pub_link": "https://doi.org/10.3390/ijerph192114411",
+            "doi": "10.3390/ijerph192114411",
+        },
+                
         {
             "title": "Brain Decoding Using fNIRS",
             "authors": "Lu Cao, Dandan Huang, Yue Zhang, Xiaowei Jiang, & Yanan Chen",
